@@ -12,3 +12,5 @@ Python: Core programming language.<br/>
 Scikit-learn: For building and evaluating the Logistic Regression model.<br/>
 Pandas & NumPy: Data manipulation and preprocessing.<br/>
 Jupyter Notebook: Interactive model development and visualisation.
+
+[reference]https://youtu.be/fiz1ORTBGpY?si=4KH9hogCeb1PdQGR
